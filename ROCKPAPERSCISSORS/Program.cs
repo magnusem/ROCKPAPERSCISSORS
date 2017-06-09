@@ -31,6 +31,7 @@ namespace ROCKPAPERSCISSORS
                 case 3:
                     inputcpu = "SCISSORS";
                     break;
+
             }
         }
     }
